@@ -1,0 +1,237 @@
+[
+
+    {
+        "id": 1,
+        "product_name": "mens jeans",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/dGccRpj",
+        "Color": "Blue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 2,
+        "product_name": "mens shirt",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://ibb.co/x2PP75V",
+        "Color": "Maroon",
+        "Brand": "Westside"
+    },
+    {
+        "id": 3,
+        "product_name": "mens jeans",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/9cqvzCx",
+        "Color": "Blue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 4,
+        "product_name": "mens shirt",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/vQthwgF",
+        "Color": " check Blue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 5,
+        "product_name": "mens jeans",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/dGccRpj",
+        "Color": "Blue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 5,
+        "product_name": "mens t-shirt",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/wSL0WJq",
+        "Color": "Blue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 6,
+        "product_name": "mens shirt",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/Yyh202p",
+        "Color": "Brown",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 7,
+        "product_name": "mens shirt",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/wJM8RvF",
+        "Color": "Green",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 8,
+        "product_name": "mens t-shirt",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/kSHLd4p",
+        "Color": "mix",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 9,
+        "product_name": "mens jeans",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/dGccRpj",
+        "Color": "Blue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 10,
+        "product_name": "mens kurta",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/qgL6X2b",
+        "Color": "cream",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 11,
+        "product_name": "mens kurta",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/VwMJ7kw",
+        "Color": "black",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 12,
+        "product_name": "mens joggers",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/GkpSjjf",
+        "Color": "light brown",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 13,
+        "product_name": "mens joggers",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/tKtdMZp",
+        "Color": "cream",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 14,
+        "product_name": "mens shoes",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "7",
+        "Image": "https://ibb.co/fQXKPcV",
+        "Color": "Blue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 15,
+        "product_name": "mens shoes",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "6",
+        "Image": "https://ibb.co/R9jvxSQ",
+        "Color": "Black",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 16,
+        "product_name": "mens sandal",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "6",
+        "Image": "https://ibb.co/1n1wj8Z",
+        "Color": "Black",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 17,
+        "product_name": "mens slipper",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "6",
+        "Image": "https://ibb.co/d4DV6wK",
+        "Color": "Black",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 18,
+        "product_name": "mens  shoes",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "6",
+        "Image": "https://ibb.co/6DPkm4C",
+        "Color": "Black",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 19,
+        "product_name": "mens  sports shoes",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "6",
+        "Image": "https://ibb.co/MgtYrrD",
+        "Color": "Black",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 20,
+        "product_name": "mens  sports shoes",
+        "category": "Mens",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "6",
+        "Image": "https://ibb.co/MgtYrrD",
+        "Color": "Black",
+        "Brand": "Gucci"
+    }
+
+
+
+]

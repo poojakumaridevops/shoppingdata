@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/j34Ycz1",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 2,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/tcnxxbv",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 3,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/qmZYWrW",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 4,
+        "product_name": "girls dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/G5dctf5",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 5,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/X23SWzH",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 6,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/X23SWzH",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 7,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/X23SWzH",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 8,
+        "product_name": "girls dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/WnNcxBV",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 9,
+        "product_name": "Boy shoes",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/SBKnZXZ",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 10,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/1Z5ZX5s",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 11,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/zH1cPP9",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 12,
+        "product_name": "Boy dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/DCdgv3r",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 13,
+        "product_name": "girls dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/yB0zVNj",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 14,
+        "product_name": "girls dress",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/NFJpnxL",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 15,
+        "product_name": "Toys",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/xH5Rq3W",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 16,
+        "product_name": "Toys",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/YNzgMNh",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 17,
+        "product_name": "Toys",
+        "category": "Kids",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/2SpbtM7",
+        "Color": "skyblue",
+        "Brand": "Gucci"
+    }
+]

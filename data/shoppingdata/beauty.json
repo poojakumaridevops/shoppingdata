@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "product_name": "Lipstick",
+        "category": "Makeup",
+        "category_id": 4,
+        "Price": 4000,
+        "Image":"https://ibb.co/VNjgGzd",
+        "Color": "Marron",
+        "company": "Lakame"
+    },
+    {
+        "id": 2,
+        "product_name": "Face-powder",
+        "category": "other",
+        "category_id": 4,
+        "Price": 4000,
+        "Image":"https://ibb.co/F3WyzJS",
+        "Color": "cream",
+        "company": "Maybellene"
+    },
+    {
+        "id": 2,
+        "product_name": "Face-powder",
+        "category": "other",
+        "category_id": 4,
+        "Price": 4000,
+        "Image":"https://ibb.co/F3WyzJS",
+        "Color": "cream",
+        "company": "Maybellene"
+    },
+    {
+        "id": 2,
+        "product_name": "Face-powder",
+        "category": "other",
+        "category_id": 4,
+        "Price": 4000,
+        "Image":"https://ibb.co/F3WyzJS",
+        "Color": "cream",
+        "company": "Maybellene"
+    },
+    {
+        "id": 2,
+        "product_name": "Face-powder",
+        "category": "other",
+        "category_id": 4,
+        "Price": 4000,
+        "Image":"https://ibb.co/F3WyzJS",
+        "Color": "cream",
+        "company": "Maybellene"
+    }
+]

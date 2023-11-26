@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category": "Mens"
+    },
+    {
+        "id":2,
+        "category":"Womens"
+    },
+    {
+        "id":3,
+        "category":"kids"
+    },
+    {
+        "id":4,
+        "category":"Beauty wellness"
+    },
+    {
+        "id":5,
+        "category":"other"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "product_name": "mixer",
+        "category": "other",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/2YR070L",
+        "Color": "skyblue",
+        "Brand": "Bajaj"
+    },
+    {
+        "id": 2,
+        "product_name": "hot",
+        "category": "other",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/QvjjD37",
+        "Color": "skyblue",
+        "Brand": "LG"
+    },
+    {
+        "id": 3,
+        "product_name": "freeze",
+        "category": "other",
+        "category_id": 3,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://ibb.co/khS8G6L",
+        "Color": "skyblue",
+        "Brand": "Whirfool"
+    },
+    {
+        "id": 4,
+        "product_name": "Trolley",
+        "category": "other",
+        "category_id": 5,
+        "Price": 4000,
+        "Image":"https://ibb.co/KrGpXK6",
+        "Color": "Green",
+        "company": "Safari"
+    },
+    {
+        "id": 5,
+        "product_name": "handbags",
+        "category": "other",
+        "category_id": 5,
+        "Price": 3000,
+        "Image": "https://ibb.co/7v97tPf", 
+        "Color": "pink",
+        "company": "Bata"
+    }
+]

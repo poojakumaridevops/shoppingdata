@@ -1,0 +1,178 @@
+[
+    {
+    "id": 1,
+    "product_name": "Girls saree",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/dGccRpj",
+    "Color": "White",
+    "Brand": "Gucci"
+},
+{
+    "id": 2,
+    "product_name": "Girls shoes",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "5",
+    "Image": "https://ibb.co/tzNtKWk",
+    "Color": "White",
+    "Brand": "Gucci"
+},
+{
+    "id": 3,
+    "product_name": "Girls shoes",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "5",
+    "Image": "https://ibb.co/nn4W5tC",
+    "Color": "Blue",
+    "Brand": "Gucci"
+},
+{
+    "id": 4,
+    "product_name": "Girls saree",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/SXkYnW0",
+    "Color": "Black",
+    "Brand": "Gucci"
+},
+{
+    "id": 5,
+    "product_name": "Girls Lahenga",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/yN7WDjx",
+    "Color": "pink",
+    "Brand": "Gucci"
+},
+{
+    "id": 6,
+    "product_name": "Girls gowns",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/bbmnC0V",
+    "Color": "Blue",
+    "Brand": "Gucci"
+},
+{
+    "id": 7,
+    "product_name": "Girls Western",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/Yk4cYDH",
+    "Color": "Blue",
+    "Brand": "Gucci"
+},
+{
+    "id": 8,
+    "product_name": "Girls western",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/dfML77S",
+    "Color": "red",
+    "Brand": "Gucci"
+},
+{
+    "id": 9,
+    "product_name": "Girls Suits",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/XW2PfBc",
+    "Color": "Black",
+    "Brand": "Gucci"
+},
+{
+    "id": 10,
+    "product_name": "Girls Anarkali",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/3BnRzbg",
+    "Color": "red blue",
+    "Brand": "Gucci"
+},
+{
+    "id": 11,
+    "product_name": "Girls Jumpsuits",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/hy5mZ51",
+    "Color": "green",
+    "Brand": "Gucci"
+},
+{
+    "id": 12,
+    "product_name": "Girls tops",
+    "category": "Women",
+    "category_id": 2,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/NmNh1jR",
+    "Color": "pink",
+    "Brand": "Gucci"
+},
+{
+    "id": 13,
+    "product_name": "Girls Frocks",
+    "category": "Kids",
+    "category_id": 3,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/w4qSpQS",
+    "Color": "creamy",
+    "Brand": "Gucci"
+},
+{
+    "id": 14,
+    "product_name": "Girls tops",
+    "category": "Kids",
+    "category_id": 3,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/6bq1sq3",
+    "Color": "orange",
+    "Brand": "Gucci"
+},
+{
+    "id": 15,
+    "product_name": "Boy kurta set",
+    "category": "Kids",
+    "category_id": 3,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/QQmcZRd",
+    "Color": "pink",
+    "Brand": "Gucci"
+},
+{
+    "id": 16,
+    "product_name": "Girls frock",
+    "category": "Kids",
+    "category_id": 3,
+    "Price": 2000,
+    "Size": "Small",
+    "Image": "https://ibb.co/0JsbmdR",
+    "Color": "pink",
+    "Brand": "Gucci"
+}
+]
